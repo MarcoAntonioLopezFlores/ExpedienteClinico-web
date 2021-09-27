@@ -1,0 +1,12 @@
+.containerImagen{
+    display: flex;
+    align-items: center; 
+    justify-content:center
+}
+
+.inputPicker{
+    border-radius: 5px;
+    height: 6vh;
+    width: 100%;
+}
+

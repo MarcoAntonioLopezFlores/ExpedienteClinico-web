@@ -1,0 +1,21 @@
+.login-form{
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    height: 100%;
+    margin-top: 20px;
+}
+
+.link{
+    text-decoration: none;
+    color: #6B4C35;
+    
+}
+
+.link:hover{
+    cursor: pointer;
+    text-decoration: none;
+    color: #6B4C35;
+    background-color: #C9D468;
+}
